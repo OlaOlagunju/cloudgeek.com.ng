@@ -12,7 +12,7 @@ email: gunjujide@gmail.com
 # email_title: Email (Email title override)
 phone: (202) 743-4938
 # phone_title: Phone (Phone title override)
-website: olaolagunju.github.io/Ola_Portfolio/
+website: olaolagunju.github.io/portfolio/
 website_title: Portfolio
 # Dark Mode (true/false/never)
 darkmode: false
@@ -63,7 +63,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: center
         title: Project name
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
@@ -117,7 +117,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
       
-      ![alt text](/images/mecirc.png "Mercy-Worldwide")
+      ![alt text](/images/mecirc.png "MERCY Worldwide")
 
       Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
