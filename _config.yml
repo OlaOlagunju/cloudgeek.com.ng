@@ -15,7 +15,7 @@ phone: (202) 743-4938
 website: olaolagunju.github.io/Ola_Portfolio/
 website_title: Portfolio
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 #twitter_username: jekyllrb
