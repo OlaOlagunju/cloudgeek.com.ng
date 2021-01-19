@@ -12,7 +12,7 @@ email: gunjujide@gmail.com
 # email_title: Email (Email title override)
 phone: (202) 743-4938
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+website: olaolagunju.github.io
 # website_title: olaolagunju.github.io
 
 # Dark Mode (true/false/never)
@@ -50,7 +50,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: /images/me4.jpg
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
@@ -94,7 +94,7 @@ content:
       - layout: right
         title: Lionbridge Technologies
         sub_title: Online Data Analyst
-        caption: 2018-present
+        caption: 2018 - present
         link: Link to company (optional)
         quote: >
           Short description of the company (optional)
@@ -106,7 +106,7 @@ content:
       - layout: top-right
         title: Howard University
         sub_title: M.Eng in Environmental Engineering
-        caption: 2016-2018
+        caption: 2016 - 2018
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
