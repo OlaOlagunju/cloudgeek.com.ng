@@ -90,9 +90,8 @@ content:
         quote: >
           Lionbridge AI helps businesses large and small build, test and improve machine learning models, providing access to a huge volume of data across all languages and file types
         description: | # this will include new lines to allow paragraphs
-          Working in the AI team to improve the Google/YouTube search engines by delivering thorough mobile data quality assessments 
-	  
-	  Also conducting evaluations on thousands of websites per week and reporting user metrics on each of them 
+          Working in the AI team to improve the Google/YouTube search engines by delivering thorough mobile data quality assessments   
+	  | Also conducting evaluations on thousands of websites per week and reporting user metrics on each of them 
 
       - layout: left
         title: DC Water
