@@ -8,10 +8,10 @@ version: 2
 # Personal info
 name: Ola Olagunju
 title: Data Analyst
-email: gunjujide@gmail.com
-# email_title: Email (Email title override)
 phone: (202) 743-4938
 # phone_title: Phone (Phone title override)
+email: gunjujide@gmail.com
+# email_title: Email (Email title override)
 website: olaolagunju.github.io/portfolio/
 website_title: Portfolio
 # Dark Mode (true/false/never)
@@ -99,7 +99,7 @@ content:
         quote: >
           DC Water collects and treats wastewater for more than 672,000 residents and 17.8 million annual visitors in the District of Columbia, Maryland, and Virginia
         description: | # this will include new lines to allow paragraphs
-          Led a team in daily operation and maintenance of a 320-gal pilot while conducting weekly tests on the main bio-reactors. Also implemented a technical station to record, process, statistically analyze, and visualize data from the pilot
+          Led a team in daily operation and maintenance of a 320-gallon pilot reactor while conducting weekly tests on the main bio-reactors. Also implemented a technical station to record, process, statistically analyze, and visualize data from the pilot
 
   - title: Education
     layout: list
