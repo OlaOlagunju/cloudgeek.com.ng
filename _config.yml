@@ -63,7 +63,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: right
+      - layout: left
         title: Limit of Stokesian Settling in Wastewater
         link: github.com/OlaOlagunju/LOSS_Project
         link_text: project summary
@@ -76,7 +76,21 @@ content:
             url: github.com/OlaOlagunju/LOSS_Project/blob/main/Full%20Project%20-%20Calculating%20the%20Limit%20of%20Stokesian%20Settling%20in%20Wastewater.ipynb
         quote: >
           Built a new system for quantifying the minimum concentration of wastewater solids at which sedimentation in settling tanks cause poor water quality. Also known as Limit of Stokesian Settling (LOSS)
-        description: | # this will include new lines to allow paragraphs	  
+        description: | # this will include new lines to allow paragraphs
+      - layout: left
+        title: Oxygen Uptake Rate as a Control Parameter in Wastewater
+        link: github.com/OlaOlagunju/OUR_Project
+        link_text: project summary
+        additional_links:
+          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #  icon: fab fa-github
+          #  url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: github.com/OlaOlagunju/OUR_Project/blob/main/Full%20Project%20-%20Using%20the%20Oxygen%20Uptake%20Rate%20of%20Biomass%20as%20a%20Control%20Parameter%20in%20Wastewater%20Treatment.ipynb
+        quote: >
+          Built automated system to continuously (1 hr. cycles) analyze microbial activity in wastewater via Oxygen Uptake Rate (OUR) respirometry and increase energy recovery in secondary wastewater treatment by 36%
+        description: | # this will include new lines to allow paragraphs
   - title: Experience
     layout: list
     content:
@@ -89,7 +103,6 @@ content:
           Lionbridge AI helps businesses large and small build, test and improve machine learning models, providing access to a huge volume of data across all languages and file types
         description: | # this will include new lines to allow paragraphs
           Working in the AI team to improve the Google/YouTube search engines by delivering thorough mobile data quality assessments. Also conducting evaluations on thousands of websites per week and reporting user metrics on each of them 
-
       - layout: left
         title: DC Water
         sub_title: Wastewater Data Analyst
