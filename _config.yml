@@ -70,7 +70,7 @@ content:
         additional_links:
           - title:  LOSS Project
             icon: fab fa-github
-            url: https://github.com/OlaOlagunju/LOSS_Project/blob/main/Full%20Project%20-%20Calculating%20the%20Limit%20of%20Stokesian%20Settling%20in%20Wastewater.ipynb
+            url: 
         quote: >
           DC Water collects and treats wastewater for more than 672,000 residents and 17.8 million annual visitors in the District of Columbia, Maryland, and Virginia
         description: | # this will include new lines to allow paragraphs
