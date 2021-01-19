@@ -82,7 +82,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: DC Water
         sub_title: Wastewater Data Analyst
         caption: 2016-2018
@@ -91,7 +91,7 @@ content:
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
-      - layout: right
+      - layout: left
         title: Lionbridge Technologies
         sub_title: Online Data Analyst
         caption: 2018 - present
