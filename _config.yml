@@ -76,8 +76,7 @@ content:
             url: github.com/OlaOlagunju/LOSS_Project/blob/main/Full%20Project%20-%20Calculating%20the%20Limit%20of%20Stokesian%20Settling%20in%20Wastewater.ipynb
         quote: >
           Built a new system for quantifying the minimum concentration of wastewater solids at which sedimentation in settling tanks cause poor water quality. Also known as Limit of Stokesian Settling (LOSS)
-        description: | # this will include new lines to allow paragraphs
- 	  
+        description: | # this will include new lines to allow paragraphs	  
   - title: Experience
     layout: list
     content:
