@@ -64,8 +64,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: center
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        title: Calculating the Limit of Stokesian Settling in Wastewater
+        project summary: https://github.com/OlaOlagunju/LOSS_Project
         link_text: Link Text
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
