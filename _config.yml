@@ -103,7 +103,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: top-left
         title: Howard University
         sub_title: M.Eng in Environmental Engineering
         caption: 2016 - 2018
@@ -116,7 +116,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
       
-      ![alt text](/images/me2.jpeg "Mercy-Worldwide")
+      ![alt text](/images/mecirc.png "Mercy-Worldwide")
 
       Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
