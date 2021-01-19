@@ -71,12 +71,13 @@ content:
           #- title:  Github page for project (eg. sproogen/modern-resume-theme)
           #  icon: fab fa-github
           #  url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Full project
+          - title:  Full Project
             icon: fab fa-github
             url: github.com/OlaOlagunju/LOSS_Project/blob/main/Full%20Project%20-%20Calculating%20the%20Limit%20of%20Stokesian%20Settling%20in%20Wastewater.ipynb
         quote: >
           Built a new system for quantifying the minimum concentration of wastewater solids at which sedimentation in settling tanks cause poor water quality. Also known as Limit of Stokesian Settling (LOSS)
         description: | # this will include new lines to allow paragraphs
+          Led a team in daily operation and maintenance of a 320-gallon pilot reactor while conducting weekly tests on the main bio-reactors. Also implemented a technical station to record, process, statistically analyze, and visualize data from the pilot
       - layout: left
         title: Oxygen Uptake Rate as a Control Parameter in Wastewater
         link: github.com/OlaOlagunju/OUR_Project
@@ -85,12 +86,13 @@ content:
           #- title:  Github page for project (eg. sproogen/modern-resume-theme)
           #  icon: fab fa-github
           #  url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Full project
+          - title:  Full Project
             icon: fab fa-github
             url: github.com/OlaOlagunju/OUR_Project/blob/main/Full%20Project%20-%20Using%20the%20Oxygen%20Uptake%20Rate%20of%20Biomass%20as%20a%20Control%20Parameter%20in%20Wastewater%20Treatment.ipynb
         quote: >
           Built automated system to continuously (1 hr. cycles) analyze microbial activity in wastewater via Oxygen Uptake Rate (OUR) respirometry and increase energy recovery in secondary wastewater treatment by 36%
         description: | # this will include new lines to allow paragraphs
+          Led a team in daily operation and maintenance of a 320-gallon pilot reactor while conducting weekly tests on the main bio-reactors. Also implemented a technical station to record, process, statistically analyze, and visualize data from the pilot
   - title: Experience
     layout: list
     content:
