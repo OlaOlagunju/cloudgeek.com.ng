@@ -6,7 +6,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: **Ola** Olagunju
+name: Ola Olagunju
 title: Data Analyst
 email: gunjujide@gmail.com
 # email_title: Email (Email title override)
