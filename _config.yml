@@ -63,23 +63,20 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: middle
-        title: Calculating the Limit of Stokesian Settling in Wastewater
+      - layout: right
+        title: Limit of Stokesian Settling in Wastewater
         link: https://github.com/OlaOlagunju/LOSS_Project
         link_text: project summary
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  LOSS Project
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: https://github.com/OlaOlagunju/LOSS_Project/blob/main/Full%20Project%20-%20Calculating%20the%20Limit%20of%20Stokesian%20Settling%20in%20Wastewater.ipynb
         quote: >
-          Short overview of the project (optional)
+          Built a new system for quantifying the minimum concentration of wastewater solids at which sedimentation in settling tanks cause poor water quality. Also known as Limit of Stokesian Settling (LOSS)
         description: | # this will include new lines to allow paragraphs
-          - Built a new system for quantifying the minimum concentration of wastewater solids at which sedimentation in settling tanks cause poor water quality. Also known as Limit of Stokesian Settling (LOSS)
           - Designed a unique R algorithm to convert 100’s of images of settling wastewater (in 2-liter jars) to color indexes in order to analyze light penetration through the jar
           - Implemented 3 mathematical models in R to process color indexes based on regression analysis, sigmoid fitting and mean deviation of light through the jar
+	  - Constructed a method to help plant operators mitigate clarifier failures, and enhance wastewater effluent quality
   - title: Experience
     layout: list
     content:
