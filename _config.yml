@@ -95,12 +95,13 @@ content:
       - layout: left
         title: DC Water
         sub_title: Wastewater Data Analyst
-        caption: 2016-2018
+        caption: 2016 - 2018
         link: https://www.dcwater.com/
         quote: >
           DC Water collects and treats wastewater for more than 672,000 residents and 17.8 million annual visitors in the District of Columbia, Maryland, and Virginia
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Led a team of 4 in daily operation and maintenance of a 320-gal pilot while conducting weekly tests on the main bio-reactors. Also implemented a technical station to record, process, statistically analyze, and visualize data from the pilot
+
   - title: Education
     layout: list
     content:
