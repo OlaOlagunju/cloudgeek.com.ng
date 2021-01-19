@@ -77,7 +77,9 @@ content:
         quote: >
           Built a new system for quantifying the minimum concentration of wastewater solids at which sedimentation in settling tanks cause poor water quality. Also known as Limit of Stokesian Settling (LOSS)
         description: | # this will include new lines to allow paragraphs
-          Designed a unique R algorithm to convert 100’s of images of settling wastewater (in 2-liter jars) to color indexes in order to analyze light penetration through the jar. Implemented 3 mathematical models in R to process color indexes based on regression analysis, sigmoid fitting and mean deviation of light through the jar. Constructed a method to help plant operators mitigate clarifier failures, and enhance wastewater effluent quality
+          * Designed a unique R algorithm to convert 100’s of images of settling wastewater (in 2-liter jars) to color indexes in order to analyze light penetration through the jar.
+	  * Implemented 3 mathematical models in R to process color indexes based on regression analysis, sigmoid fitting and mean deviation of light through the jar.
+	  * Constructed a method to help plant operators mitigate clarifier failures, and enhance wastewater effluent quality
       - layout: left
         title: Oxygen Uptake Rate as a Control Parameter in Wastewater
         link: github.com/OlaOlagunju/OUR_Project
@@ -90,7 +92,7 @@ content:
             icon: fab fa-github
             url: github.com/OlaOlagunju/OUR_Project/blob/main/Full%20Project%20-%20Using%20the%20Oxygen%20Uptake%20Rate%20of%20Biomass%20as%20a%20Control%20Parameter%20in%20Wastewater%20Treatment.ipynb
         quote: >
-          Built automated system to continuously (1 hr. cycles) analyze microbial activity in wastewater via Oxygen Uptake Rate (OUR) respirometry and increase energy recovery in secondary wastewater treatment by 36%
+          Built automated system to continuously analyze microbial activity in wastewater via Oxygen Uptake Rate (OUR) respirometry and increase energy recovery in secondary wastewater treatment by 36%
         description: | # this will include new lines to allow paragraphs
           Led a team in daily operation and maintenance of a 320-gallon pilot reactor while conducting weekly tests on the main bio-reactors. Also implemented a technical station to record, process, statistically analyze, and visualize data from the pilot
   - title: Experience
