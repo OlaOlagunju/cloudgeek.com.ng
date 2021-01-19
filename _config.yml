@@ -63,10 +63,10 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: center
+      - layout: middle
         title: Calculating the Limit of Stokesian Settling in Wastewater
-        project summary: https://github.com/OlaOlagunju/LOSS_Project
-        link_text: Link Text
+        link: https://github.com/OlaOlagunju/LOSS_Project
+        link_text: project summary
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
