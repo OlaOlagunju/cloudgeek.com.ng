@@ -71,7 +71,7 @@ content:
           #- title:  Github page for project (eg. sproogen/modern-resume-theme)
           #  icon: fab fa-github
           #  url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  Full project
             icon: fab fa-github
             url: github.com/OlaOlagunju/LOSS_Project/blob/main/Full%20Project%20-%20Calculating%20the%20Limit%20of%20Stokesian%20Settling%20in%20Wastewater.ipynb
         quote: >
@@ -85,7 +85,7 @@ content:
           #- title:  Github page for project (eg. sproogen/modern-resume-theme)
           #  icon: fab fa-github
           #  url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  Full project
             icon: fab fa-github
             url: github.com/OlaOlagunju/OUR_Project/blob/main/Full%20Project%20-%20Using%20the%20Oxygen%20Uptake%20Rate%20of%20Biomass%20as%20a%20Control%20Parameter%20in%20Wastewater%20Treatment.ipynb
         quote: >
