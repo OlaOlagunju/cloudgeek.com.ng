@@ -83,21 +83,22 @@ content:
     layout: list
     content:
       - layout: left
-        title: DC Water
-        sub_title: Wastewater Data Analyst
-        caption: 2016-2018
-        link: Link to company (optional)
+        title: Lionbridge Technologies
+        sub_title: Data Analyst
+        caption: 2018 - present
+        link: https://lionbridge.ai/
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Worked in the AI team to improve the Google/YouTube search engines by delivering thorough mobile data quality assessments and conducting daily evaluations on 100’s of websites and reporting user metrics on each of them 
+
       - layout: left
-        title: Lionbridge Technologies
-        sub_title: Online Data Analyst
-        caption: 2018 - present
-        link: Link to company (optional)
+        title: DC Water
+        sub_title: Wastewater Data Analyst
+        caption: 2016-2018
+        link: https://www.dcwater.com/
         quote: >
-          Short description of the company (optional)
+          DC Water collects and treats wastewater for more than 672,000 residents and 17.8 million annual visitors in the District of Columbia, Maryland, and Virginia
         description: | # this will include new lines to allow paragraphs
           Description of role
   - title: Education
