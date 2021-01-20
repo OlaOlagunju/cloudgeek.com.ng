@@ -52,14 +52,14 @@ additional_links:
 about_profile_image: /images/meee.jpg
 about_content: | # this will include new lines to allow paragraphs
   <p>Hello there! I'm <strong>Ola</strong>  </p> 
-  <p>I have a strong aptitude for Math, and studied Chemical and Environmental Engineering in college to bolster my skills. It was then I realized that I enjoy problem solving, working with data and providing solutions.
+  <p>I have a strong aptitude for math, and studied chemical and environmental engineering in college to bolster my skills. It was then I realized that I enjoy problem solving, working with data and providing solutions.
      I've collaborated on many diverse projects from helping Businesses make promising financial investments to improving the efficiency of Wastewater treatment</p>
    I'm proficient with:
     - Python
     - SQL
     - R
     - C++ 
-  <p>Feel free to download a copy of my resume <strong><a href="https://github.com/OlaOlagunju/portfolio/raw/main/Ola_Resume.pdf">here</a></strong></p>
+  <p>Feel free to download a copy of my resume <strong><a href="https://github.com/OlaOlagunju/portfolio/raw/main/Ola_Olagunju_Resume.pdf">here</a></strong></p>
 
 content:
   - title: Projects # Title for the section
@@ -188,10 +188,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       There are quite a few things I am passionate about in life, and Data Analysis is just one facet of my life. I love. Link came into my life when he was only eight weeks old, and by the time he was twelve weeks old I had taught him how to skateboard. I also enjoy doing leather-working in my spare time, making anything from wallets to backpacks.
-  
-      <center><img src="/images/mecirc.png" /></center>
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
-
+      <center><img src="/images/mecirc.png" width="350" height="350" /></center>
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
