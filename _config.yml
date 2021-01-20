@@ -77,7 +77,7 @@ content:
         quote: >
           Built a new system for quantifying the minimum concentration of wastewater solids at which sedimentation in settling tanks cause poor water quality. Also known as Limit of Stokesian Settling (LOSS)
         description: | #
-          <img src="/images/rlogo.png" width="25" height="25" />          
+          <img src="/images/rlogo.png" width="40" height="40" />          
           - Constructed a method to help plant operators mitigate clarifier failures, and enhance wastewater effluent quality
           - Designed a unique R algorithm to convert 100’s of images of settling wastewater (in 2-liter jars) to color indexes in order to analyze light penetration through the jar
           - Implemented 3 mathematical models in R to process color indexes based on regression analysis, sigmoid fitting and mean deviation of light through the jar
@@ -95,7 +95,7 @@ content:
         quote: >
           Built automated system to continuously analyze microbial activity in wastewater via Oxygen Uptake Rate (OUR) respirometry and increase energy recovery in secondary wastewater treatment by 36%
         description: | # this will include new lines to allow paragraphs
-          <img src="/images/rlogo.png" width="25" height="25" /> <img src="/images/c.png" width="25" height="25" />
+          <img src="/images/rlogo.png" width="40" height="40" /> <img src="/images/c.png" width="35" height="35" />
           - Led daily experiments to assess wastewater quality from the pilot and the plant’s mainstream channels
           - Developed R algorithms code to analyze the hourly data
           - Implemented C++ algorithms to control microbial wasting, water, aeration, Proportional, Integral and Derivative (PID) tuning, based on a target OUR range
