@@ -63,7 +63,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: center
         title: Limit of Stokesian Settling in Wastewater
         link: github.com/OlaOlagunju/LOSS_Project
         link_text: project summary
@@ -80,7 +80,7 @@ content:
           - Constructed a method to help plant operators mitigate clarifier failures, and enhance wastewater effluent quality
           - Designed a unique R algorithm to convert 100’s of images of settling wastewater (in 2-liter jars) to color indexes in order to analyze light penetration through the jar
           - Implemented 3 mathematical models in R to process color indexes based on regression analysis, sigmoid fitting and mean deviation of light through the jar
-      - layout: left
+      - layout: center
         title: Oxygen Uptake Rate as a Control Parameter in Wastewater
         link: github.com/OlaOlagunju/OUR_Project
         link_text: project summary
@@ -94,9 +94,9 @@ content:
         quote: >
           Built automated system to continuously analyze microbial activity in wastewater via Oxygen Uptake Rate (OUR) respirometry and increase energy recovery in secondary wastewater treatment by 36%
         description: | # this will include new lines to allow paragraphs
-          - Implemented C++ algorithms to control microbial wasting, water, aeration, Proportional, Integral and Derivative (PID) tuning, based on a target OUR range
-          - Developed R algorithms code to analyze the hourly data
           - Led daily laboratory research experiments to assess wastewater quality from the pilot and the plant’s mainstream channels
+          - Developed R algorithms code to analyze the hourly data
+          - Implemented C++ algorithms to control microbial wasting, water, aeration, Proportional, Integral and Derivative (PID) tuning, based on a target OUR range
   - title: Experience
     layout: list
     content:
