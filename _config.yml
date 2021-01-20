@@ -142,13 +142,13 @@ content:
           #- title:  Github page for project (eg. sproogen/modern-resume-theme)
           #  icon: fab fa-github
           #  url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Full Project
-            icon: fab fa-github
-            url: 
-        quote: >
+          #- title:  Full Project
+            #icon: fab fa-github
+            #url: 
+        #quote: >
           
         description: | # this will include new lines to allow paragraphs
-          <mark><center>[all projects](https://olaolagunju.github.io/portfolio/)</center></mark>
+          <mark><center> [all projects](olaolagunju.github.io/portfolio/) </center></mark>
   - title: Experience
     layout: list
     content:
