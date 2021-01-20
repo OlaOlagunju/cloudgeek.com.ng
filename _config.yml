@@ -202,15 +202,15 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      <p><center>There are quite a few things I am passionate about in life, and Data Analysis is just one facet of my life.
+      <center>There are quite a few things I am passionate about in life, and Data Analysis is just one facet of my life.
       I'm an ambassador for <a href="https://mercyworldwide.org/">M.E.R.C.Y Worldwide </a>(Maximizing Efforts for Relief Care and Youth) -
       a humanitarian organization aimed at improving the quality of life for the less privileged. We've helped with furnishing homes of people who were below the poverty line, 
-      assisted in providing supplies for kids in low income neighborhoods in DC, and currently working on a Tree planting project in Prince Georges County, Maryland</p></center>
+      assisted in providing supplies for kids in low income neighborhoods in DC, and currently working on a Tree planting project in Prince Georges County, Maryland</center>
       
       <center><img src="/images/mecirc.png" width="350" height="350" /></center>
 
-      <p><center>I am also a tutor/teacher by heart. I have taught afterschool robotics for grade and middleschoolers, and currently tutoring algebra and calculus for highschoolers on the side. 
-      Last but not least, I am an avid chess player in my spare time, so feel free to challenge me at <strong><a href="https://chess.com/play/the1phantomkid">this invitation</a></strong></p></center>
+      <center>I am also a tutor/teacher by heart. I have taught afterschool robotics for grade and middleschoolers, and currently tutoring algebra and calculus for highschoolers on the side. 
+      Last but not least, I am an avid chess player in my spare time, so feel free to challenge me at <strong><a href="https://chess.com/play/the1phantomkid">this invitation</a></strong></center>
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
