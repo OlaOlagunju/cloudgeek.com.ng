@@ -187,7 +187,9 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      There are quite a few things I am passionate about in life, and Data Analysis is just one facet of my life. I love. Link came into my life when he was only eight weeks old, and by the time he was twelve weeks old I had taught him how to skateboard. I also enjoy doing leather-working in my spare time, making anything from wallets to backpacks.
+      There are quite a few things I am passionate about in life, and Data Analysis is just one facet of my life. 
+      I'm an ambassador for M.E.R.C.Y Worldwide (Maximizing Efforts for Relief Care and Youth) - a humanitarian organization aimed at improving the quality of life for the less privileged.
+      I also enjoy playing chess in my spare time, feel free to challenge me at: <strong><a href="https://chess.com/play/the1phantomkid">'invite</a></strong>
       <center><img src="/images/mecirc.png" width="350" height="350" /></center>
 # Footer
 footer_show_references: true
