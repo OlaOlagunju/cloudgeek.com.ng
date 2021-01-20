@@ -180,7 +180,7 @@ content:
     content:
       - layout: top-left
         title: Howard University
-        sub_title: <p style="color:blue">Master of Engineering</p>
+        sub_title: <p style="color:blue"><a href="https://github.com/OlaOlagunju/portfolio/blob/main/Ola_Unofficial_Transcript.pdf">Master of Engineering</a></p>
                    <p>Environmental Engineering</p>
         caption: 2016 - 2018
         #quote: >
@@ -190,7 +190,7 @@ content:
           I was also a workshop presenter for over 60 industry professionals at the <a href="https://www.wef.org/">Water Environment Federation</a> conferences in 2017 and 2018
       - layout: top-left
         title: 
-        sub_title: <p style="color:blue">Bachelor of Science</p>
+        sub_title: <p style="color:blue"><a href="https://github.com/OlaOlagunju/portfolio/blob/main/Ola_Unofficial_Transcript.pdf">Bachelor of Science</a></p>
                    <p>Chemical Engineering</p>
         caption: 2012 - 2016
         #quote: >
