@@ -148,7 +148,7 @@ content:
         #quote: >
           
         description: | # this will include new lines to allow paragraphs
-          **[all projects](olaolagunju.github.io/portfolio/)**
+          **[all projects](https://olaolagunju.github.io/portfolio/)**
   - title: Experience
     layout: list
     content:
