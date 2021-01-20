@@ -52,12 +52,12 @@ additional_links:
 about_profile_image: /images/meee.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi! I'm Ola. I love problem solving, working with data and providing solutions. I've collaborated on many diverse projects from helping Businesses make promising financial investments to improving the efficiency of Wastewater treatment
-  I'm proficient with:
+  <p> I'm proficient with:
     - Python
     - SQL
     - R
-    - C++
-  Feel free to download a copy of my resume <mark>[here](github.com/OlaOlagunju/portfolio/raw/main/Ola_Resume.pdf)</mark>
+    - C++ </p>
+  Feel free to download a copy of my resume <mark><a href="github.com/OlaOlagunju/portfolio/raw/main/Ola_Resume.pdf">here</a></mark>
 
 content:
   - title: Projects # Title for the section
