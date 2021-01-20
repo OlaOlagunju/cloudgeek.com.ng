@@ -94,7 +94,9 @@ content:
         quote: >
           Built automated system to continuously analyze microbial activity in wastewater via Oxygen Uptake Rate (OUR) respirometry and increase energy recovery in secondary wastewater treatment by 36%
         description: | # this will include new lines to allow paragraphs
-          Led a team in daily operation and maintenance of a 320-gallon pilot reactor while conducting weekly tests on the main bio-reactors. Also implemented a technical station to record, process, statistically analyze, and visualize data from the pilot
+          - Implemented C++ algorithms to control microbial wasting, water, aeration, Proportional, Integral and Derivative (PID) tuning, based on a target OUR range
+          - Developed R algorithms code to analyze the hourly data
+          - Led daily laboratory research experiments to assess wastewater quality from the pilot and the plant’s mainstream channels
   - title: Experience
     layout: list
     content:
