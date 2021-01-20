@@ -6,7 +6,7 @@ repository: OlaOlagunju.github.io
 version: 2
 
 # Personal info
-name: Ola Olagunju
+name: <strong>Ola</strong> Olagunju
 title: Data Analyst
 phone: (202) 743-4938
 # phone_title: Phone (Phone title override)
@@ -51,8 +51,10 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /images/meee.jpg
 about_content: | # this will include new lines to allow paragraphs
-  <p>Hello there! I'm <strong>Ola</strong>. I love problem solving, working with data and providing solutions. I've collaborated on many diverse projects from helping Businesses make promising financial investments to improving the efficiency of Wastewater treatment
-  </p> I'm proficient with:
+  <p>Hello there! I'm <strong>Ola</strong>  </p> 
+  <p>I have a strong aptitude for Math, and studied Engineering in college to bolster my skills. It was then I realized that I enjoy problem solving, working with data and providing solutions.
+     I've collaborated on many diverse projects from helping Businesses make promising financial investments to improving the efficiency of Wastewater treatment</p>
+   I'm proficient with:
     - Python
     - SQL
     - R
