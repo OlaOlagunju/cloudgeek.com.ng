@@ -64,7 +64,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Limit of Stokesian Settling in Wastewater
+        title: <center>Limit of Stokesian Settling in Wastewater</center>
         link: github.com/OlaOlagunju/LOSS_Project
         link_text: project summary
         additional_links:
@@ -136,11 +136,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-      
-      <p align="center">
-      <img src="/images/mecirc.png" />
-      </p>
-
+      <center><img src="/images/mecirc.png" /></center>
       Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
