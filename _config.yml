@@ -186,7 +186,7 @@ content:
         #quote: >
           #Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          I passed the Fundamentals of Engineering exam to get a <strong><a href="https://github.com/OlaOlagunju/portfolio/blob/main/Ola_FE_NCEES%20Result%20Verification.pdf">Engineer In Training license</a></strong>. 
+          I passed the Fundamentals of Engineering exam to get an <strong><a href="https://github.com/OlaOlagunju/portfolio/blob/main/Ola_FE_NCEES%20Result%20Verification.pdf">Engineer In Training license</a></strong>. 
           I was also a workshop presenter for over 60 industry professionals at the <a href="https://www.wef.org/">Water Environment Federation</a> conferences in 2017 and 2018
       - layout: top-left
         title: 
