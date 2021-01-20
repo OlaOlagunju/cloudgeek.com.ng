@@ -188,9 +188,11 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       There are quite a few things I am passionate about in life, and Data Analysis is just one facet of my life. 
-      I'm an ambassador for M.E.R.C.Y Worldwide (Maximizing Efforts for Relief Care and Youth) - a humanitarian organization aimed at improving the quality of life for the less privileged.
-      I also enjoy playing chess in my spare time, feel free to challenge me at: <strong><a href="https://chess.com/play/the1phantomkid">'invite</a></strong>
+      I'm an ambassador for <a href="https://mercyworldwide.org/">'M.E.R.C.Y Worldwide</a>(Maximizing Efforts for Relief Care and Youth)
+      - a humanitarian organization aimed at improving the quality of life for the less privileged. We've helped with furnishing homes of people who were below the poverty line, 
+      assisted in providing supplies for kids in low income neighborhoods in DC, and currently working on Tree plantings in the Prince Georges County in MD
       <center><img src="/images/mecirc.png" width="350" height="350" /></center>
+      I also enjoy playing chess in my spare time, feel free to challenge me at <strong><a href="https://chess.com/play/the1phantomkid">this invitation</a></strong>
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
