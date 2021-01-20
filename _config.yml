@@ -82,7 +82,7 @@ content:
           Built a new system for quantifying the minimum concentration of wastewater solids at which sedimentation in settling tanks cause poor water quality. Also known as Limit of Stokesian Settling (LOSS)
         description: | #
           <img src="/images/rlogo.png" width="48" height="40" />      
-          - Developed a method to help plant operators mitigate clarifier failures, and enhance wastewater effluent quality
+          - Developed a method to help plant operators mitigate clarifier failures, and enhance wastewater effluent quality, thus saving thousands of man-hours
           - Designed a unique R algorithm to convert 100’s of images of settling wastewater (in 2-liter jars) to color indexes in order to analyze light penetration through the jar
           - Implemented 3 mathematical models in R to process color indexes based on regression analysis, sigmoid fitting and mean deviation of light through the jar
       - layout: left
@@ -103,6 +103,7 @@ content:
           - Led daily experiments to assess wastewater quality from the pilot and the plant’s mainstream channels
           - Developed R algorithms code to analyze the hourly data
           - Implemented C++ algorithms to control microbial wasting, water, aeration, Proportional, Integral and Derivative (PID) tuning, based on a target OUR range
+          - Increased energy recovery in secondary wastewater treatment by 36% thus potentially cutting energy costs by $5 million
       - layout: left
         title: Using SQL to guide Business decisions for Chinook
         link: github.com/OlaOlagunju/SQL_Business_Project
