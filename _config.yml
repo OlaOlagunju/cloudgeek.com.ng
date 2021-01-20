@@ -148,7 +148,7 @@ content:
         #quote: >
           
         description: | # this will include new lines to allow paragraphs
-          <p style="text-align:center;"> **[all projects](https://olaolagunju.github.io/portfolio/)** </p>
+          <p style="text-align:center;"> <a href="https://olaolagunju.github.io/portfolio/">all projects</a></p>
   - title: Experience
     layout: list
     content:
