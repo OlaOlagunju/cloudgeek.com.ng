@@ -153,7 +153,7 @@ content:
           
         description: | # this will include new lines to allow paragraphs
           <p style="text-align:center;font-size:20px;"> <a href="https://olaolagunju.github.io/portfolio/">All Projects</a></p>
-  - title: Experience
+  - title: Recent Experience
     layout: list
     content:
       - layout: left
