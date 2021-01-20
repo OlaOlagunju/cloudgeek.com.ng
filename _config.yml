@@ -75,8 +75,9 @@ content:
             icon: fab fa-github
             url: github.com/OlaOlagunju/LOSS_Project/blob/main/Full%20Project%20-%20Calculating%20the%20Limit%20of%20Stokesian%20Settling%20in%20Wastewater.ipynb
         quote: >
-          Built a new system for quantifying the minimum concentration of wastewater solids at which sedimentation in settling tanks cause poor water quality. Also known as Limit of Stokesian Settling (LOSS) ![alt text](/images/r.png "R")
+          Built a new system for quantifying the minimum concentration of wastewater solids at which sedimentation in settling tanks cause poor water quality. Also known as Limit of Stokesian Settling (LOSS)
         description: | #
+          ![alt text](/images/r.png "R")          
           - Constructed a method to help plant operators mitigate clarifier failures, and enhance wastewater effluent quality
           - Designed a unique R algorithm to convert 100’s of images of settling wastewater (in 2-liter jars) to color indexes in order to analyze light penetration through the jar
           - Implemented 3 mathematical models in R to process color indexes based on regression analysis, sigmoid fitting and mean deviation of light through the jar
@@ -92,8 +93,9 @@ content:
             icon: fab fa-github
             url: github.com/OlaOlagunju/OUR_Project/blob/main/Full%20Project%20-%20Using%20the%20Oxygen%20Uptake%20Rate%20of%20Biomass%20as%20a%20Control%20Parameter%20in%20Wastewater%20Treatment.ipynb
         quote: >
-          Built automated system to continuously analyze microbial activity in wastewater via Oxygen Uptake Rate (OUR) respirometry and increase energy recovery in secondary wastewater treatment by 36% ![alt text](/images/r.png "R") ![alt text](/images/c.png "C++")
+          Built automated system to continuously analyze microbial activity in wastewater via Oxygen Uptake Rate (OUR) respirometry and increase energy recovery in secondary wastewater treatment by 36%
         description: | # this will include new lines to allow paragraphs
+          ![alt text](/images/r.png "R") ![alt text](/images/c.png "C++")
           - Led daily experiments to assess wastewater quality from the pilot and the plant’s mainstream channels
           - Developed R algorithms code to analyze the hourly data
           - Implemented C++ algorithms to control microbial wasting, water, aeration, Proportional, Integral and Derivative (PID) tuning, based on a target OUR range
