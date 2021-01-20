@@ -55,10 +55,12 @@ about_content: | # this will include new lines to allow paragraphs
   <p>I have a strong aptitude for math, and studied chemical and environmental engineering in college to bolster my skills. It was then I realized that I enjoy problem solving, working with data and providing solutions.
      I've collaborated on many diverse projects from helping Businesses make promising financial investments to improving the efficiency of Wastewater treatment</p>
    I'm proficient with:
-    - Python
-    - SQL
+    - Python (pandas, Django, Selenium, Web Scraping)
+    - SQL (SQLite, MySQL)
+    - Tableau
     - R
     - C++ 
+    - GIS, BioWin, Civil 3D
   <p>Feel free to download a copy of my resume <strong><a href="https://github.com/OlaOlagunju/portfolio/raw/main/Ola_Olagunju_Resume.pdf">here</a></strong></p>
 
 content:
@@ -178,21 +180,36 @@ content:
     content:
       - layout: top-left
         title: Howard University
-        sub_title: <p style="color:blue">M.Eng in Environmental Engineering</p>
+        sub_title: <p style="color:blue">Master of Engineering</p>
+                   <p style="color:blue">Environmental Engineering</p>
         caption: 2016 - 2018
-        quote: >
-          Short institution or course description (optional)
+        #quote: >
+          #Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          - Passed the Fundamentals of Engineering exam to get <strong><a href="https://github.com/OlaOlagunju/portfolio/blob/main/Ola_FE_NCEES%20Result%20Verification.pdf">Engineer In Training license</a></strong>
+          - Key presenter for over 60 industry professionals at the <a href="https://www.wef.org/">Water Environment Federation</a> conferences in 2017 and 2018
+      - layout: top-left
+        title: 
+        sub_title: <p style="color:blue">Bachelor of Science</p>
+                   <p style="color:blue">Chemical Engineering</p>
+        caption: 2012 - 2016
+        #quote: >
+          #Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          - Awarded the Best Student in Senior Design 
+          - Extensive elective coursework in scientific computing and data analysis, software development and design
+          - Secretary of the <a href="https://www.aiche.org/">American Institute of Chemical Engineers</a> Howard Chapter
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      There are quite a few things I am passionate about in life, and Data Analysis is just one facet of my life. 
-      I'm an ambassador for <a href="https://mercyworldwide.org/">'M.E.R.C.Y Worldwide</a>(Maximizing Efforts for Relief Care and Youth)
-      - a humanitarian organization aimed at improving the quality of life for the less privileged. We've helped with furnishing homes of people who were below the poverty line, 
-      assisted in providing supplies for kids in low income neighborhoods in DC, and currently working on Tree plantings in the Prince Georges County in MD
-      <center><img src="/images/mecirc.png" width="350" height="350" /></center>
-      I also enjoy playing chess in my spare time, feel free to challenge me at <strong><a href="https://chess.com/play/the1phantomkid">this invitation</a></strong>
+      <center>There are quite a few things I am passionate about in life, and Data Analysis is just one facet of my life. 
+      I'm an ambassador for <a href="https://mercyworldwide.org/">M.E.R.C.Y Worldwide </a>(Maximizing Efforts for Relief Care and Youth) -
+      a humanitarian organization aimed at improving the quality of life for the less privileged. We've helped with furnishing homes of people who were below the poverty line, 
+      assisted in providing supplies for kids in low income neighborhoods in DC, and currently working on a Tree planting project in Prince Georges County, Maryland
+      <img src="/images/mecirc.png" width="350" height="350" />
+      <p>I am also a tutor/teacher by heart. I have taught afterschool robotics for grade and middleschoolers, and currently tutoring algebra and calculus for highschoolers on the side</p> 
+      <p>I also enjoy playing chess in my spare time, feel free to challenge me at <strong><a href="https://chess.com/play/the1phantomkid">this invitation</a></strong></p></center>
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
