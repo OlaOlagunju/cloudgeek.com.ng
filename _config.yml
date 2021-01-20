@@ -134,6 +134,21 @@ content:
           - Established connection between SAT scores and socio-economic factors in each borough
           - Ascertained that African-American and Hispanic students were 16% more likely to perform worse in SAT exams, due to a majority of their residence in low income districts
           - Discovered that schools in more suburban areas (Staten Island & Queens) were likely to perform better in SAT exams than those in the city
+      - layout: left
+        title: 
+        link: 
+        link_text: 
+        additional_links:
+          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #  icon: fab fa-github
+          #  url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title:  Full Project
+            icon: fab fa-github
+            url: 
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+          <mark><center>[all projects](https://olaolagunju.github.io/portfolio/)</center></mark>
   - title: Experience
     layout: list
     content:
