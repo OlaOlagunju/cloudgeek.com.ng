@@ -6,7 +6,8 @@ repository: OlaOlagunju.github.io
 version: 2
 
 # Personal info
-name: | <strong>Ola</strong> Olagunju
+name: | #
+<strong>Ola</strong> Olagunju
 title: Data Analyst
 phone: (202) 743-4938
 # phone_title: Phone (Phone title override)
