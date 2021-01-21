@@ -52,11 +52,11 @@ additional_links:
 about_profile_image: /images/meee.jpg
 about_content: | # this will include new lines to allow paragraphs
   <p>Hello there! I'm <strong>Ola</strong>  </p> 
-  <p>I have a strong aptitude for math, and studied chemical and environmental engineering in college to bolster my skills. It was then I realized that I enjoy problem solving, working with data and providing solutions.
+  <p>I have a strong aptitude for math, and I studied chemical and environmental engineering in college to bolster my skills. It was then I realized that I enjoy problem solving, working with data and providing solutions.
      I've collaborated on many diverse projects from helping Businesses make promising financial investments to improving the efficiency of Wastewater treatment</p>
    I'm proficient with:
     - Python (pandas, Django, Selenium, Web Scraping)
-    - SQL (SQLite, MySQL)
+    - SQL
     - Tableau
     - R
     - C++ 
