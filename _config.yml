@@ -55,7 +55,7 @@ about_content: | # this will include new lines to allow paragraphs
   <p>I have a strong aptitude for math, and I studied chemical and environmental engineering in college to develop my skills. From there, I realized that I enjoy problem solving, working with data and providing solutions.
      I've collaborated on many diverse projects from helping Businesses make promising financial investments to improving the efficiency of Wastewater treatment</p>
    I'm proficient with:
-    - Python (pandas, Django, Selenium, Web Scraping)
+    - Python
     - SQL
     - Tableau
     - R
@@ -165,7 +165,7 @@ content:
         quote: >
           Lionbridge AI helps businesses large and small build, test and improve machine learning models, providing access to a huge volume of data across all languages and file types
         description: | # this will include new lines to allow paragraphs
-          Collaborating with the AI team to improve the Google/YouTube search engines by delivering thorough mobile data quality analysis. Also conducting evaluations on thousands of websites per week and reporting user metrics on each of them 
+          Working with the AI team to improve the Google/YouTube search engines for millions of users via mobile data quality analysis. Also conducting evaluations on thousands of websites per week and reporting user metrics on each of them 
       - layout: left
         title: DC Water
         sub_title: <p style="color:blue">Wastewater Data Analyst</p>
@@ -174,7 +174,7 @@ content:
         quote: >
           DC Water collects and treats wastewater for more than 672,000 residents and 17.8 million annual visitors in the District of Columbia, Maryland, and Virginia
         description: | # this will include new lines to allow paragraphs
-          Led a team in daily operation and maintenance of a 320-gallon pilot bio-reactor while conducting weekly tests on the main facility reactors. Also implemented a technical station to record, process, statistically analyze, and visualize data from the pilot
+          Led a team in daily operation, maintenance, and performance analysis of a 320-gallon pilot wastewater reactor. Implemented a station to process, statistically analyze, and visualize data from the pilot. Formulated new techniques for the plant to employ in their full-scale operation
 
   - title: Education
     layout: list
