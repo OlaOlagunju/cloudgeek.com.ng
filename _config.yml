@@ -7,10 +7,10 @@ version: 2
 
 # Personal info
 name: Ola Olagunju
-title: Data Analyst
-phone: (202) 743-4938
+title: Analyst/Engineer
+phone: (+234) 81-79310960
 # phone_title: Phone (Phone title override)
-email: gunjujide@gmail.com
+email: gunjujide@outlook.com
 # email_title: Email (Email title override)
 website: olaolagunju.github.io/portfolio/
 website_title: Portfolio
@@ -53,38 +53,19 @@ about_profile_image: /images/meee.jpg
 about_content: | # this will include new lines to allow paragraphs
   <p>Hello there! I'm <strong>Ola</strong>  </p> 
   <p>I have a strong aptitude for math, and I studied chemical and environmental engineering in college to develop my skills. From there, I realized that I enjoy problem solving, working with data and providing solutions.
-     I've collaborated on many diverse projects from helping Businesses make promising financial investments to improving the efficiency of Wastewater treatment</p>
+     I've collaborated on many diverse projects from helping Businesses make promising financial investments to improving the efficiency of wastewater treatment and also troubleshooting mid-stream oilfield issues</p>
    I'm proficient with:
-    - Python
-    - SQL
-    - Tableau
-    - R
-    - C++ 
+    - SQL, Python, R, C++
+    - Tableau, Dataviz Software
+    - Chemical Simulators and Reactor Design
+    - Water and Wastewater treatment methods
     - GIS, BioWin, Civil 3D
-  <p>Feel free to download a copy of my resume <strong><a href="https://github.com/OlaOlagunju/portfolio/raw/main/Ola_Olagunju_Resume.pdf">here</a></strong></p>
+  <p>Feel free to download a copy of my CV <strong><a href="https://github.com/OlaOlagunju/portfolio/raw/main/Ola_Olagunju_Resume.pdf">here</a></strong></p>
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: NYC High School SAT Scores
-        link: github.com/OlaOlagunju/SAT_Scores_Project
-        link_text: <p style="color:blue">project summary</p>
-        additional_links:
-          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #  icon: fab fa-github
-          #  url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Full Project
-            icon: fab fa-github
-            url: github.com/OlaOlagunju/SAT_Scores_Project/blob/main/Full%20Project%20-%20Analyzing%20NYC%20High%20School%20SAT%20Scores.ipynb
-        quote: >
-          Exploratory Data Analysis (EDA) of SAT Scores from 363 High schools in 32 Districts, including alternative high schools
-        description: | # this will include new lines to allow paragraphs
-          <img src="/images/python.png" width="120" height="35" />
-          - Established connection between SAT scores and socio-economic factors in each borough
-          - Ascertained that African-American and Hispanic students were 16% more likely to perform worse in SAT exams, due to a majority of their residence in low income districts
-          - Discovered that schools in more suburban areas (Staten Island & Queens) were likely to perform better in SAT exams than those in the city
       - layout: left
         title: Oxygen Uptake Rate as a Control Parameter in Wastewater
         link: github.com/OlaOlagunju/OUR_Project
@@ -105,23 +86,6 @@ content:
           - Implemented C++ algorithms to control microbial wasting, water, aeration, Proportional, Integral and Derivative (PID) tuning, based on a target OUR range
           - Increased energy recovery in secondary wastewater treatment by 36% thus potentially cutting energy costs per year by $5 million
       - layout: left
-        title: Using SQL to guide Business decisions for Chinook
-        link: github.com/OlaOlagunju/SQL_Business_Project
-        link_text: <p style="color:blue">project summary</p>
-        additional_links:
-          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #  icon: fab fa-github
-          #  url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Full Project
-            icon: fab fa-github
-            url: github.com/OlaOlagunju/SQL_Business_Project/blob/main/Full%20Project%20-%20Data%20Analysis%20using%20SQL%20to%20guide%20Business%20decisions%20for%20Chinook.ipynb
-        quote: >
-          Traversed a SQLite database and collected data to find out: top music genres sold in USA, music sales performance by country, employees sales performance, etc. Visualized data using python pandas
-        description: | # this will include new lines to allow paragraphs
-          <img src="/images/sql.png" width="50" height="42" /> <img src="/images/python.png" width="120" height="35" />
-          - Proposed that bringing in Rock bands should be the next business venture as they garnered over 50% of tracks sold
-          - Advocated to expand marketing efforts in India, due to the large population (over 1.3 billion) and one of the highest customer average lifetime purchases ($91.58)
-      - layout: left
         title: Limit of Stokesian Settling in Wastewater
         link: github.com/OlaOlagunju/LOSS_Project
         link_text: <p style="color:blue">project summary</p>
@@ -139,6 +103,41 @@ content:
           - Developed a method to help plant operators mitigate clarifier failures, and enhance wastewater effluent quality, thus saving thousands of man-hours per week in troubleshooting tank failures
           - Designed a unique R algorithm to convert 100’s of images of settling wastewater (in 2-liter jars) to color indexes in order to analyze light penetration through the jar
           - Implemented 3 mathematical models in R to process color indexes based on regression analysis, sigmoid fitting and mean deviation of light through the jar
+      - layout: left
+        title: NYC High School SAT Scores
+        link: github.com/OlaOlagunju/SAT_Scores_Project
+        link_text: <p style="color:blue">project summary</p>
+        additional_links:
+          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #  icon: fab fa-github
+          #  url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title:  Full Project
+            icon: fab fa-github
+            url: github.com/OlaOlagunju/SAT_Scores_Project/blob/main/Full%20Project%20-%20Analyzing%20NYC%20High%20School%20SAT%20Scores.ipynb
+        quote: >
+          Exploratory Data Analysis (EDA) of SAT Scores from 363 High schools in 32 Districts, including alternative high schools
+        description: | # this will include new lines to allow paragraphs
+          <img src="/images/python.png" width="120" height="35" />
+          - Established connection between SAT scores and socio-economic factors in each borough
+          - Ascertained that African-American and Hispanic students were 16% more likely to perform worse in SAT exams, due to a majority of their residence in low income districts
+          - Discovered that schools in more suburban areas (Staten Island & Queens) were likely to perform better in SAT exams than those in the city
+      - layout: left
+        title: Using SQL to guide Business decisions for Chinook
+        link: github.com/OlaOlagunju/SQL_Business_Project
+        link_text: <p style="color:blue">project summary</p>
+        additional_links:
+          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #  icon: fab fa-github
+          #  url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title:  Full Project
+            icon: fab fa-github
+            url: github.com/OlaOlagunju/SQL_Business_Project/blob/main/Full%20Project%20-%20Data%20Analysis%20using%20SQL%20to%20guide%20Business%20decisions%20for%20Chinook.ipynb
+        quote: >
+          Traversed a SQLite database and collected data to find out: top music genres sold in USA, music sales performance by country, employees sales performance, etc. Visualized data using python pandas
+        description: | # this will include new lines to allow paragraphs
+          <img src="/images/sql.png" width="50" height="42" /> <img src="/images/python.png" width="120" height="35" />
+          - Proposed that bringing in Rock bands should be the next business venture as they garnered over 50% of tracks sold
+          - Advocated to expand marketing efforts in India, due to the large population (over 1.3 billion) and one of the highest customer average lifetime purchases ($91.58)
       - layout: left
         title: 
         link: 
@@ -187,8 +186,8 @@ content:
         #quote: >
           #Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          I passed the Fundamentals of Engineering exam to get an <strong><a href="https://github.com/OlaOlagunju/portfolio/blob/main/Ola_FE_NCEES%20Result%20Verification.pdf">Engineer In Training license</a></strong>. 
-          I was also a workshop speaker for over 60 industry professionals at the Water Environment Federation Technical Exhibition and Conference <a href="https://www.weftec.org/">(WEFTEC)</a> in 2017 and 2018
+          Passed the Fundamentals of Engineering exam to get an <strong><a href="https://github.com/OlaOlagunju/portfolio/blob/main/Ola_FE_NCEES%20Result%20Verification.pdf">Engineer In Training license</a></strong>. 
+          Served as a Workshop speaker/instructor for over 60 industry professionals at the Water Environment Federation Technical Exhibition and Conference <a href="https://www.weftec.org/">(WEFTEC)</a> in 2017 and 2018
       - layout: top-left
         title: 
         sub_title: <p style="color:blue"><strong><a href="https://github.com/OlaOlagunju/portfolio/blob/main/Ola_Unofficial_Transcript.pdf">Bachelor of Science</a></strong></p>
@@ -197,6 +196,7 @@ content:
         #quote: >
           #Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
+          Coursework includes reactor and process design, thermodynamics, heat transfer, and mass balances
           Extensive elective coursework in scientific computing and data analysis, software development and design; I was awarded the Best Student in Senior Design. 
           I also served Secretary of the <a href="https://www.aiche.org/">American Institute of Chemical Engineers</a> Howard Chapter
 
