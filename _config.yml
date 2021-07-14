@@ -196,7 +196,7 @@ content:
         #quote: >
           #Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          Coursework includes reactor and process design, thermodynamics, heat transfer, and mass balances
+          Coursework includes reactor and process design, thermodynamics, heat transfer, and mass balances.
           Extensive elective coursework in scientific computing and data analysis, software development and design; I was awarded the Best Student in Senior Design. 
           I also served Secretary of the <a href="https://www.aiche.org/">American Institute of Chemical Engineers</a> Howard Chapter
 
