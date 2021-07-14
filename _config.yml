@@ -60,7 +60,7 @@ about_content: | # this will include new lines to allow paragraphs
     - Chemical Simulators and Reactor Design
     - Water and Wastewater treatment methods
     - GIS, BioWin, Civil 3D
-  <p>Feel free to download a copy of my CV <strong><a href="https://github.com/OlaOlagunju/portfolio/raw/main/Ola_Olagunju_Resume.pdf">here</a></strong></p>
+  <p>Feel free to download a copy of my CV <strong><a href="https://github.com/OlaOlagunju/portfolio/raw/main/Olajide_Olagunju_CV.pdf">here</a></strong></p>
 
 content:
   - title: Projects # Title for the section
@@ -167,7 +167,7 @@ content:
           Working with the AI team to improve the Google/YouTube search engines for millions of users via mobile data quality analysis. Also conducting evaluations on thousands of websites per week and reporting user metrics on each of them 
       - layout: left
         title: DC Water
-        sub_title: <p style="color:blue">Wastewater Data Analyst</p>
+        sub_title: <p style="color:blue">Wastewater Analyst/Engineer</p>
         caption: 2016 - 2018
         link: https://www.dcwater.com/
         quote: >
@@ -206,11 +206,11 @@ content:
       <p>There are quite a few things I am passionate about in life, and Data Analysis is just one facet of my life.
       I'm an ambassador for <a href="https://mercyworldwide.org/">M.E.R.C.Y Worldwide </a>(Maximizing Efforts for Relief Care and Youth) -
       a humanitarian organization aimed at improving the quality of life for the less privileged. We've helped with furnishing homes of people who were below the poverty line, 
-      assisted in providing supplies for kids in low income neighborhoods in DC, and currently working on a Tree planting project in Prince Georges County, Maryland</p>
+      assisted in providing supplies for kids in low income neighborhoods in Washington, DC, and fed numerous people in Prince Georges County, Maryland and Lagos, Nigeria</p>
       
       <center><img src="/images/mecirc.png" width="350" height="350" /></center>
 
-      <br>I am also a tutor/teacher by heart. I have taught afterschool robotics for grade and middleschoolers, and currently tutoring algebra and calculus for highschoolers on the side. 
+      <br>I am also a tutor/teacher by heart. I have taught afterschool robotics for grade and middleschoolers, and also algebra and calculus for highschoolers. 
       Last but not least, I am an avid chess player in my spare time, so feel free to challenge me at <strong><a href="https://chess.com/play/the1phantomkid">this invitation</a></strong>
 # Footer
 footer_show_references: true
