@@ -9,12 +9,12 @@ version: 2
 name: Ola Jide Olagunju
 title: Engineer/Analyst
 phone: (+234) 81-793-10960
-# phone_title: phone (Phone title override)
+phone_title: phone
 email: gunjujide@outlook.com
-# email_title: email (Email title override)
+email_title: email
 website: olaolagunju.github.io
 website_title: web
-# Dark Mode (true/false/never)
+Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
@@ -48,7 +48,7 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me (Use this to override about section title)
+about_title: Bio
 about_profile_image: /images/meee.jpg
 about_content: | # this will include new lines to allow paragraphs
   <p>Hi! I'm <strong>Jide</strong>  </p> 
@@ -226,7 +226,7 @@ footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
-# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+theme: modern-resume-theme (Use this is you are hosting your resume yourself)
 # remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
 
 sass:
