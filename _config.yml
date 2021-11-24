@@ -13,8 +13,8 @@ email: gunjujide@outlook.com
 email_title: email
 website: olaolagunju.github.io
 website_title: Web
-#Dark Mode (true/false/never)
-darkmode: true
+Dark Mode (true/false/never)
+darkmode: never
 
 # Social links
 #twitter_username: jekyllrb
