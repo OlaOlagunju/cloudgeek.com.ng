@@ -13,8 +13,8 @@ phone_title: phone
 email: gunjujide@outlook.com
 email_title: email
 website: olaolagunju.github.io
-website_title: web
-Dark Mode (true/false/never)
+website_title: Web
+# Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
