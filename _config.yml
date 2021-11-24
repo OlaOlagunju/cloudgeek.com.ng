@@ -6,12 +6,12 @@ repository: OlaOlagunju.github.io
 version: 2
 
 # Personal info
-name: Ola Jide Olagunju
+name: <p style="font-size:50px">Ola Jide Olagunju</p>
 title: Engineer/Analyst
 phone: (+234) 81-793-10960
-# phone_title: Phone (Phone title override)
+# phone_title: phone (Phone title override)
 email: gunjujide@outlook.com
-# email_title: Email (Email title override)
+# email_title: email (Email title override)
 website: olaolagunju.github.io
 website_title: web
 # Dark Mode (true/false/never)
