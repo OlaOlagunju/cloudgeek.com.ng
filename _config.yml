@@ -69,7 +69,7 @@ content:
       - layout: left
         title: Limit of Stokesian Settling in Wastewater
         link: https://olaolagunju.github.io/visuals/
-        link_text: <p style="color:blue;font-size:30px;">Visuals</p>
+        link_text: <p style="color:red;font-size:30px;">Visuals</p>
         additional_links:
           #- title:  Github page for project (eg. sproogen/modern-resume-theme)
           #  icon: fab fa-github
@@ -87,7 +87,7 @@ content:
       - layout: left
         title: Oxygen Uptake Rate as a Control Parameter in Wastewater
         link: github.com/OlaOlagunju/OUR_Project
-        link_text: <p style="color:blue;font-size:30px;">project summary</p>
+        link_text: <p style="color:red;font-size:30px;">project summary</p>
         additional_links:
           #- title:  Github page for project (eg. sproogen/modern-resume-theme)
           #  icon: fab fa-github
@@ -106,7 +106,7 @@ content:
       - layout: left
         title: NYC High School SAT Scores
         link: github.com/OlaOlagunju/SAT_Scores_Project
-        link_text: <p style="color:blue;font-size:30px;">project summary</p>
+        link_text: <p style="color:red;font-size:30px;">project summary</p>
         additional_links:
           #- title:  Github page for project (eg. sproogen/modern-resume-theme)
           #  icon: fab fa-github
@@ -124,7 +124,7 @@ content:
       - layout: left
         title: Using SQL to guide Business decisions for Chinook
         link: github.com/OlaOlagunju/SQL_Business_Project
-        link_text: <p style="color:blue;font-size:30px;">project summary</p>
+        link_text: <p style="color:red;font-size:30px;">project summary</p>
         additional_links:
           #- title:  Github page for project (eg. sproogen/modern-resume-theme)
           #  icon: fab fa-github
