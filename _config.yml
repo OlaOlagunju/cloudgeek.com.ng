@@ -6,14 +6,14 @@ repository: OlaOlagunju.github.io
 version: 2
 
 # Personal info
-name: Olajide Olagunju
-title: Analyst
-phone: (+234) 81-79310960
+name: Ola Jide Olagunju
+title: Engineer/Analyst
+phone: (+234) 81-793-10960
 # phone_title: Phone (Phone title override)
 email: gunjujide@outlook.com
 # email_title: Email (Email title override)
-website: olaolagunju.github.io/portfolio/
-website_title: Portfolio
+website: olaolagunju.github.io
+website_title: web
 # Dark Mode (true/false/never)
 darkmode: false
 
@@ -51,7 +51,7 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /images/meee.jpg
 about_content: | # this will include new lines to allow paragraphs
-  <p>Hello there! I'm <strong>Ola</strong>  </p> 
+  <p>Hi! I'm <strong>Jide</strong>  </p> 
   <p>I have a strong aptitude for math, and I studied chemical and environmental engineering in college to develop my skills. From there, I realized that I enjoy problem solving, working with data and providing solutions.
      I've collaborated on many diverse projects from helping Businesses make promising financial investments to improving the efficiency of wastewater treatment and also troubleshooting mid-stream oilfield issues</p>
    I'm proficient with:
@@ -67,9 +67,27 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Limit of Stokesian Settling in Wastewater
+        link: github.com/OlaOlagunju/LOSS_Project
+        link_text: <p style="color:blue;font-size:20px;">Visuals</p>
+        additional_links:
+          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #  icon: fab fa-github
+          #  url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title:  Full Project
+            icon: fab fa-github
+            url: github.com/OlaOlagunju/LOSS_Project/blob/main/Full%20Project%20-%20Calculating%20the%20Limit%20of%20Stokesian%20Settling%20in%20Wastewater.ipynb
+        quote: >
+          Built a new system for quantifying the minimum concentration of wastewater solids at which sedimentation in settling tanks cause poor water quality. Also known as Limit of Stokesian Settling (LOSS)
+        description: | #
+          <img src="/images/rlogo.png" width="48" height="40" />      
+          - Developed a method to help plant operators mitigate clarifier failures, and enhance wastewater effluent quality, thus saving thousands of man-hours per week in troubleshooting tank failures
+          - Designed a unique R algorithm to convert 100’s of images of settling wastewater (in 2-liter jars) to color indexes in order to analyze light penetration through the jar
+          - Implemented 3 mathematical models in R to process color indexes based on regression analysis, sigmoid fitting and mean deviation of light through the jar
+      - layout: left
         title: Oxygen Uptake Rate as a Control Parameter in Wastewater
         link: github.com/OlaOlagunju/OUR_Project
-        link_text: <p style="color:blue">project summary</p>
+        link_text: <p style="color:blue;font-size:20px;">project summary</p>
         additional_links:
           #- title:  Github page for project (eg. sproogen/modern-resume-theme)
           #  icon: fab fa-github
@@ -86,27 +104,9 @@ content:
           - Implemented C++ algorithms to control microbial wasting, water, aeration, Proportional, Integral and Derivative (PID) tuning, based on a target OUR range
           - Increased energy recovery in secondary wastewater treatment by 36% thus potentially cutting energy costs per year by $5 million
       - layout: left
-        title: Limit of Stokesian Settling in Wastewater
-        link: github.com/OlaOlagunju/LOSS_Project
-        link_text: <p style="color:blue">project summary</p>
-        additional_links:
-          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #  icon: fab fa-github
-          #  url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Full Project
-            icon: fab fa-github
-            url: github.com/OlaOlagunju/LOSS_Project/blob/main/Full%20Project%20-%20Calculating%20the%20Limit%20of%20Stokesian%20Settling%20in%20Wastewater.ipynb
-        quote: >
-          Built a new system for quantifying the minimum concentration of wastewater solids at which sedimentation in settling tanks cause poor water quality. Also known as Limit of Stokesian Settling (LOSS)
-        description: | #
-          <img src="/images/rlogo.png" width="48" height="40" />      
-          - Developed a method to help plant operators mitigate clarifier failures, and enhance wastewater effluent quality, thus saving thousands of man-hours per week in troubleshooting tank failures
-          - Designed a unique R algorithm to convert 100’s of images of settling wastewater (in 2-liter jars) to color indexes in order to analyze light penetration through the jar
-          - Implemented 3 mathematical models in R to process color indexes based on regression analysis, sigmoid fitting and mean deviation of light through the jar
-      - layout: left
         title: NYC High School SAT Scores
         link: github.com/OlaOlagunju/SAT_Scores_Project
-        link_text: <p style="color:blue">project summary</p>
+        link_text: <p style="color:blue;font-size:20px;">project summary</p>
         additional_links:
           #- title:  Github page for project (eg. sproogen/modern-resume-theme)
           #  icon: fab fa-github
@@ -124,7 +124,7 @@ content:
       - layout: left
         title: Using SQL to guide Business decisions for Chinook
         link: github.com/OlaOlagunju/SQL_Business_Project
-        link_text: <p style="color:blue">project summary</p>
+        link_text: <p style="color:blue;font-size:20px;">project summary</p>
         additional_links:
           #- title:  Github page for project (eg. sproogen/modern-resume-theme)
           #  icon: fab fa-github
@@ -157,9 +157,18 @@ content:
     layout: list
     content:
       - layout: left
+        title: ChampionX
+        sub_title: <p style="color:blue">Engineer</p>
+        caption: 2021 - present
+        link: https://www.championx.com/
+        quote: >
+          ChampionX is a global leader in chemistry programs and services, artificial lift solutions, automation and optimization equipment, and drilling technologies for the upstream and midstream oil and gas industry.
+        description: | # this will include new lines to allow paragraphs
+          Managing chemical biocide, corrosion and scale inhibitors, demulsifiers, and other oilfield chemicals for our clients. Facilitating processing of orders, deliveries, and quality assurance of products. 
+      - layout: left
         title: Lionbridge Technologies
         sub_title: <p style="color:blue">Data Analyst</p>
-        caption: 2018 - present
+        caption: 2018 - 2021
         link: https://lionbridge.ai/
         quote: >
           Lionbridge AI helps businesses large and small build, test and improve machine learning models, providing access to a huge volume of data across all languages and file types
