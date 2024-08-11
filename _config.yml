@@ -1,249 +1,65 @@
-# Site
-repository: OlaOlagunju.github.io
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
-# Content configuration version
-version: 2
+url: https://y7kim.github.io
+baseurl: /agency-jekyll-theme/
 
-# Personal info
-name: Ola Jide Olagunju
-title: Engineer/Analyst
-phone: +1(717)592-9884; (+234) 81-793-10960
-phone_title: phone
-email: gunjujide@outlook.com
-email_title: email
-website: olaolagunju.github.io
-website_title: Web
-#Dark Mode (true/false/never)
-darkmode: never
+# Site settings
+title: Awesome Title
+email: your-email@domain.com
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
-# Social links
-#twitter_username: jekyllrb
-github_username:  OlaOlagunju
-#stackoverflow_username: "00000001"
-#dribbble_username: jekyll
-facebook_username: jide.olagunju.5
-#flickr_username: jekyll
-instagram_username: o2_gunju
-linkedin_username: olajide-olagunju
-#xing_username: jekyll
-#pinterest_username: jekyll
-#youtube_username: jekyll
-#googleplus_username: +jekyll
-#orcid_username: 0000-0000-0000-0000
 
-# Additional icon links
-additional_links:
-#- title: Link name
-#  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#  url: Link url (eg. https://google.com)
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
+# Team names, titles and social links
+people:
+- name: Kay Garland
+  pic: 1
+  position: Lead Designer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
 
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+- name: Larry Parker
+  pic: 2
+  position: Lead Marketer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
 
-# About Section
-about_title: Bio
-about_profile_image: /images/meee.jpg
-about_content: |
-  <p>Hi! I'm <strong>Jide</strong>  </p> 
-  <p>I have a strong aptitude for math, and I studied chemical and environmental engineering in college to develop my skills. From there, I realized that I enjoy problem solving, working with data and providing solutions.
-     I've collaborated on many diverse projects from helping Businesses make promising financial investments to improving the efficiency of wastewater treatment and also troubleshooting mid-stream oilfield issues</p>
-     I'm proficient with:
-    - SQL, Python, R, C++
-    - PowerBI, Dataviz Software
-    - Simulators and Reactor Design
-    - Water and Wastewater treatment
-    - GIS, BioWin, Civil 3D
-  <p>Feel free to download a copy of my CV <strong><a href="https://github.com/OlaOlagunju/portfolio/raw/main/Olajide_Olagunju_CV.pdf">here</a></strong></p>
+- name: Diana Petersen
+  pic: 3
+  position: Lead Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
 
-content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Limit of Stokesian Settling in Wastewater
-        link: olaolagunju.github.io/visuals/
-        link_text: <p style="color:red;font-size:30px;">Visuals</p>
-        additional_links:
-          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #  icon: fab fa-github
-          #  url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Full Project
-            icon: fab fa-github
-            url: github.com/OlaOlagunju/LOSS_Project/blob/main/Full%20Project%20-%20Calculating%20the%20Limit%20of%20Stokesian%20Settling%20in%20Wastewater.ipynb
-        quote: >
-          Built a new system for quantifying the minimum concentration of wastewater solids at which sedimentation in settling tanks cause poor water quality. Also known as Limit of Stokesian Settling (LOSS)
-        description: | #
-          <img src="/images/rlogo.png" width="48" height="40" />      
-          - Developed a method to help plant operators mitigate clarifier failures, and enhance wastewater effluent quality, thus saving thousands of man-hours per week in troubleshooting tank failures
-          - Designed a unique R algorithm to convert 100’s of images of settling wastewater (in 2-liter jars) to color indexes in order to analyze light penetration through the jar
-          - Implemented 3 mathematical models in R to process color indexes based on regression analysis, sigmoid fitting and mean deviation of light through the jar
-      - layout: left
-        title: Oxygen Uptake Rate as a Control Parameter in Wastewater
-        link: github.com/OlaOlagunju/OUR_Project
-        link_text: <p style="color:red;font-size:30px;">project summary</p>
-        additional_links:
-          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #  icon: fab fa-github
-          #  url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Full Project
-            icon: fab fa-github
-            url: github.com/OlaOlagunju/OUR_Project/blob/main/Full%20Project%20-%20Using%20the%20Oxygen%20Uptake%20Rate%20of%20Biomass%20as%20a%20Control%20Parameter%20in%20Wastewater%20Treatment.ipynb
-        quote: >
-          Built automated system to continuously analyze microbial activity in wastewater via Oxygen Uptake Rate (OUR) respirometry and increase energy recovery in secondary wastewater treatment
-        description: | # this will include new lines to allow paragraphs
-          <img src="/images/rlogo.png" width="48" height="40" /> <img src="/images/c.png" width="37" height="40" />
-          - Led daily experiments to assess wastewater quality from the pilot and the plant’s mainstream channels
-          - Developed R algorithms code to analyze the hourly data
-          - Implemented C++ algorithms to control microbial wasting, water, aeration, Proportional, Integral and Derivative (PID) tuning, based on a target OUR range
-          - Increased energy recovery in secondary wastewater treatment by 36% thus potentially cutting energy costs per year by $5 million
-      - layout: left
-        title: NYC High School SAT Scores
-        link: github.com/OlaOlagunju/SAT_Scores_Project
-        link_text: <p style="color:red;font-size:30px;">project summary</p>
-        additional_links:
-          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #  icon: fab fa-github
-          #  url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Full Project
-            icon: fab fa-github
-            url: github.com/OlaOlagunju/SAT_Scores_Project/blob/main/Full%20Project%20-%20Analyzing%20NYC%20High%20School%20SAT%20Scores.ipynb
-        quote: >
-          Exploratory Data Analysis (EDA) of SAT Scores from 363 High schools in 32 Districts, including alternative high schools
-        description: | # this will include new lines to allow paragraphs
-          <img src="/images/python.png" width="120" height="35" />
-          - Established connection between SAT scores and socio-economic factors in each borough
-          - Ascertained that African-American and Hispanic students were 16% more likely to perform worse in SAT exams, due to a majority of their residence in low income districts
-          - Discovered that schools in more suburban areas (Staten Island & Queens) were likely to perform better in SAT exams than those in the city
-      - layout: left
-        title: Using SQL to guide Business decisions for Chinook
-        link: github.com/OlaOlagunju/SQL_Business_Project
-        link_text: <p style="color:red;font-size:30px;">project summary</p>
-        additional_links:
-          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #  icon: fab fa-github
-          #  url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Full Project
-            icon: fab fa-github
-            url: github.com/OlaOlagunju/SQL_Business_Project/blob/main/Full%20Project%20-%20Data%20Analysis%20using%20SQL%20to%20guide%20Business%20decisions%20for%20Chinook.ipynb
-        quote: >
-          Collected data data from a database to find out: top music genres sold in USA, music sales performance by country, employees sales performance, etc. Visualized data using python pandas
-        description: | # this will include new lines to allow paragraphs
-          <img src="/images/sql.png" width="50" height="42" /> <img src="/images/python.png" width="120" height="35" />
-          - Proposed that bringing in Rock bands should be the next business venture as they garnered over 50% of tracks sold
-          - Advocated to expand marketing efforts in India, due to the large population (over 1.3 billion) and one of the highest customer average lifetime purchases ($91.58)
-      - layout: left
-        title: 
-        link: 
-        link_text: 
-        additional_links:
-          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #  icon: fab fa-github
-          #  url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          #- title:  Full Project
-            #icon: fab fa-github
-            #url: 
-        #quote: >
-          
-        description: | # this will include new lines to allow paragraphs
-          <p style="text-align:center;font-size:40px;"> <a href="https://olaolagunju.github.io/portfolio/">All Projects</a></p>
-  - title: Experience
-    layout: list
-    content:
-      - layout: left
-        title: ChampionX
-        sub_title: <p style="color:blue">Engineer</p>
-        caption: 2021 - present
-        link: https://www.championx.com/
-        quote: >
-          ChampionX is a global leader in chemistry programs and services, artificial lift solutions, automation and optimization equipment, and drilling technologies for the upstream and midstream oil and gas industry.
-        description: | # this will include new lines to allow paragraphs
-          Managing chemical biocide, corrosion and scale inhibitors, demulsifiers, and other oilfield chemicals for our clients. Facilitating processing of orders, deliveries, and quality assurance of products. 
-      - layout: left
-        title: Lionbridge Technologies
-        sub_title: <p style="color:blue">Data Analyst</p>
-        caption: 2018 - 2021
-        link: https://lionbridge.ai/
-        quote: >
-          Lionbridge AI helps businesses large and small build, test and improve machine learning models, providing access to a huge volume of data across all languages and file types
-        description: | # this will include new lines to allow paragraphs
-          Worked with the AI team to improve the Google/YouTube search engines for millions of users via mobile data quality analysis. Also conducted evaluations on thousands of websites per week and reported user metrics on each of them 
-      - layout: left
-        title: DC Water
-        sub_title: <p style="color:blue">Wastewater Analyst/Engineer</p>
-        caption: 2016 - 2018
-        link: https://www.dcwater.com/
-        quote: >
-          DC Water collects and treats wastewater for more than 672,000 residents and 17.8 million annual visitors in the District of Columbia, Maryland, and Virginia
-        description: | # this will include new lines to allow paragraphs
-          Led a team in daily operation, maintenance, and performance analysis of a 320-gallon pilot wastewater reactor. Implemented a station to process, statistically analyze, and visualize data from the pilot. Formulated new techniques for the plant to employ in their full-scale operation
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket 
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/jekyll
 
-  - title: Education
-    layout: list
-    content:
-      - layout: top-left
-        title: Howard University
-        sub_title: <p style="color:blue"><strong><a href="https://github.com/OlaOlagunju/portfolio/blob/main/Ola_Unofficial_Transcript.pdf">Master of Engineering</a></strong></p>
-                   <p>Environmental Engineering</p>
-        caption: 2016 - 2018
-        #quote: >
-          #Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Passed the Fundamentals of Engineering exam to get an <strong><a href="https://github.com/OlaOlagunju/portfolio/blob/main/Ola_FE_NCEES%20Result%20Verification.pdf">Engineer In Training license</a></strong>. 
-          Served as a Workshop speaker/instructor for over 60 industry professionals at the Water Environment Federation Technical Exhibition and Conference <a href="https://www.weftec.org/">(WEFTEC)</a> in 2017 and 2018
-      - layout: top-left
-        title: 
-        sub_title: <p style="color:blue"><strong><a href="https://github.com/OlaOlagunju/portfolio/blob/main/Ola_Unofficial_Transcript.pdf">Bachelor of Science</a></strong></p>
-                   <p>Chemical Engineering</p>
-        caption: 2012 - 2016
-        #quote: >
-          #Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Coursework includes reactor and process design, thermodynamics, heat transfer, and mass balances.
-          Extensive elective coursework in scientific computing and data analysis, software development and design; I was awarded the Best Student in Senior Design. 
-          I also served Secretary of the <a href="https://www.aiche.org/">American Institute of Chemical Engineers</a> Howard Chapter
-
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      <p>There are quite a few things I am passionate about in life, and Data Analysis is just one facet of my life.
-      I'm an ambassador for <a href="https://mercyworldwide.org/">M.E.R.C.Y Worldwide </a>(Maximizing Efforts for Relief Care and Youth) -
-      a humanitarian organization aimed at improving the quality of life for the less privileged. We've helped with furnishing homes of people who were below the poverty line, 
-      assisted in providing supplies for kids in low income neighborhoods in Washington, DC, and fed numerous people in Prince Georges County, Maryland and Lagos, Nigeria</p>
-      
-      <center><img src="/images/mecirc.png" width="350" height="350" /></center>
-
-      <br>I am also a tutor/teacher by heart. I have taught afterschool robotics for grade and middleschoolers, and also algebra and calculus for highschoolers. 
-      Last but not least, I am an avid chess player in my spare time, so feel free to challenge me at <strong><a href="https://chess.com/play/the1phantomkid">this invitation</a></strong>
-# Footer
-footer_show_references: true
-# references_title: References on request (Override references text)
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
 
 # Build settings
-# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
-# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
-
-sass:
-  sass_dir: _sass
-  style: compressed
-
-plugins:
- - jekyll-seo-tag
-
-exclude : [
-  "Gemfile",
-  "Gemfile.lock",
-  "node_modules",
-  "vendor/bundle/",
-  "vendor/cache/",
-  "vendor/gems/",
-  "vendor/ruby/",
-  "lib/",
-  "scripts/",
-  "docker-compose.yml",
-  ]
+markdown: kramdown
+permalink: pretty
