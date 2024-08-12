@@ -88,7 +88,7 @@ h1, h2, h3, h4, h5, h6 {
     .navbar-brand {
         color: $theme-primary;
         @include script-font;
-        font-weight: 800;
+        font-weight: 700;
         &:hover,
         &:focus,
         &:active,
@@ -285,7 +285,7 @@ section {
                     text-align: center;
                     top: 50%;
                     margin-top: -12px;
-                    color: white;
+                    color: $theme-primary;
                     i {
                         margin-top: -12px;
                     }
@@ -302,6 +302,7 @@ section {
             background-color: white;
             text-align: center;
             padding: 25px;
+            border: 7px solid $theme-primary;
             h4 {
                 text-transform: none;
                 margin: 0;
