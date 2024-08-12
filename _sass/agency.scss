@@ -55,11 +55,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .bg-light-gray {
-    background-color: $gray-lighter;
+    // background-color: $gray-lighter;
+    background-color: white;
 }
 
 .bg-darkest-gray {
-    background-color: $gray-darker;
+    // background-color: $gray-darker;
+    background-color: white;
 }
 
 // Restyled Primary Buttons
