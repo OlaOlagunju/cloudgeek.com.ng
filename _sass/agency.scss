@@ -86,11 +86,12 @@ h1, h2, h3, h4, h5, h6 {
     .navbar-brand {
         color: $theme-primary;
         @include script-font;
+        font-weight: 700
         &:hover,
         &:focus,
         &:active,
         &.active {
-            color: red;
+            color: blue;
         }
     }
     .navbar-collapse {
@@ -116,7 +117,7 @@ h1, h2, h3, h4, h5, h6 {
                 color: black;
                 &:hover,
                 &:focus {
-                    color: red;
+                    color: blue;
                     outline: none;
                 }
             }
