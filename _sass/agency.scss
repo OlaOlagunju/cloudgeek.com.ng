@@ -180,7 +180,7 @@ header {
         .intro-lead-in {
             @include script-font;
             font-weight: 700;
-            font-size: 40px;
+            font-size: 30px;
             line-height: 22px;
             margin-bottom: 25px;
             padding: 10px 0;
@@ -188,7 +188,7 @@ header {
         .intro-heading {
             @include script-font;
             font-weight: 700;
-            font-size: 40px;
+            font-size: 30px;
             line-height: 50px;
             margin-bottom: 25px;
         }
@@ -203,7 +203,7 @@ header {
             .intro-lead-in {
                 @include script-font;
                 font-weight: 700;
-                font-size: 75px;
+                font-size: 50px;
                 line-height: 40px;
                 margin-bottom: 25px;
                 padding: 10px 0;
@@ -211,7 +211,7 @@ header {
             .intro-heading {
                 @include script-font;
                 font-weight: 700;
-                font-size: 75px;
+                font-size: 50px;
                 line-height: 75px;
                 margin-bottom: 50px;
             }
