@@ -175,7 +175,7 @@ header {
     text-align: left;
     color: black;
     .intro-text {
-        padding-top: 50px;
+        padding-top: 150px;
         padding-bottom: 50px;
         .intro-lead-in {
             @include script-font;
@@ -184,6 +184,7 @@ header {
             line-height: 22px;
             margin-bottom: 25px;
         }
+        .description{padding:10px;}
         .intro-heading {
             @include script-font;
             font-weight: 700;
