@@ -103,11 +103,11 @@ h1, h2, h3, h4, h5, h6 {
         background-color: $theme-primary;
         border-color: $theme-primary;
         @include heading-font;
-        color: $theme-primary;
+        color: white;
         font-size: 12px;
         &:hover,
         &:focus {
-            background-color: $theme-primary;
+            background-color: #1F51FF;
         }
     }
     .nav {
@@ -119,7 +119,7 @@ h1, h2, h3, h4, h5, h6 {
                 color: black;
                 &:hover,
                 &:focus {
-                    color: $theme-primary;
+                    color: #1F51FF;
                     outline: none;
                 }
             }
