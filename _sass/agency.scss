@@ -90,7 +90,7 @@ h1, h2, h3, h4, h5, h6 {
         &:focus,
         &:active,
         &.active {
-            color: darken($theme-primary, 10%);
+            color: darken($theme-danger, 10%);
         }
     }
     .navbar-collapse {
