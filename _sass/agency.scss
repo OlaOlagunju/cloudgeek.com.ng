@@ -94,7 +94,7 @@ h1, h2, h3, h4, h5, h6 {
         &:focus,
         &:active,
         &.active {
-            color: blue;
+            color: yellow;
         }
     }
     .navbar-collapse {
@@ -108,7 +108,7 @@ h1, h2, h3, h4, h5, h6 {
         font-size: 12px;
         &:hover,
         &:focus {
-            background-color: blue;
+            background-color: yellow;
         }
     }
     .nav {
@@ -120,7 +120,7 @@ h1, h2, h3, h4, h5, h6 {
                 color: black;
                 &:hover,
                 &:focus {
-                    color: blue;
+                    color: yellow;
                     outline: none;
                 }
             }
