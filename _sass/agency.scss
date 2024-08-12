@@ -14,7 +14,6 @@ body {
 
 .text-primary {
     color: $theme-primary;
-    font-weight: 700
 }
 
 p {
@@ -94,7 +93,7 @@ h1, h2, h3, h4, h5, h6 {
         &:focus,
         &:active,
         &.active {
-            color: yellow;
+            color: $theme-primary;
         }
     }
     .navbar-collapse {
@@ -108,7 +107,7 @@ h1, h2, h3, h4, h5, h6 {
         font-size: 12px;
         &:hover,
         &:focus {
-            background-color: yellow;
+            background-color: $theme-primary;
         }
     }
     .nav {
@@ -120,7 +119,7 @@ h1, h2, h3, h4, h5, h6 {
                 color: black;
                 &:hover,
                 &:focus {
-                    color: yellow;
+                    color: $theme-primary;
                     outline: none;
                 }
             }
