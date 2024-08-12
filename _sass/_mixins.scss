@@ -10,10 +10,8 @@
   &:focus,
   &.focus {
     color: $color;
-    background-color: #1F51FF;
-        border-color: #1F51FF;
-    /* background-color: darken($background, 10%);
-    border-color: darken($border, 25%); */    
+    background-color: darken($background, 10%);
+        border-color: darken($border, 25%);    
   }
   &:hover {
     color: $color;
