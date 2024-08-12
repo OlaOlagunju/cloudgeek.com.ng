@@ -176,7 +176,7 @@ header {
     background-position: center center;
     @include background-cover;
     text-align: left;
-    color: black;
+    color: $theme-primary;
     .intro-text {
         padding-top: 150px;
         padding-bottom: 50px;
@@ -567,22 +567,22 @@ section#contact {
     ::-webkit-input-placeholder {
        @include heading-font;
        font-weight: 700;
-       color: black;
+       color: $gray-light;
     }
     :-moz-placeholder { /* Firefox 18- */
        @include heading-font;
        font-weight: 700;
-       color: black;
+       color: $gray-light;
     }
     ::-moz-placeholder {  /* Firefox 19+ */
        @include heading-font;
        font-weight: 700;
-       color: black;
+       color: $gray-light;
     }
     :-ms-input-placeholder {
        @include heading-font;
        font-weight: 700;
-       color: black;
+       color: $gray-light;
     }
     .text-danger {
         color: $theme-danger;
