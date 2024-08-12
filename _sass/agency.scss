@@ -54,13 +54,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .bg-light-gray {
-    // background-color: $gray-lighter;
     background-color: white;
+    // background-color: $gray-lighter;
 }
 
 .bg-darkest-gray {
-    // background-color: $gray-darker;
     background-color: white;
+    // background-color: $gray-darker;
 }
 
 // Restyled Primary Button
@@ -88,7 +88,7 @@ h1, h2, h3, h4, h5, h6 {
     .navbar-brand {
         color: $theme-primary;
         @include script-font;
-        font-weight: 700
+        font-weight: 700;
         &:hover,
         &:focus,
         &:active,
