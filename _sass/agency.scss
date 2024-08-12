@@ -198,6 +198,9 @@ header {
             color: #4f5c5f;
         }
     }
+    .col-sm-3 {
+        padding-top: 150px;
+    }
 }
 
 @media(min-width:768px) {
@@ -222,6 +225,9 @@ header {
                 margin-bottom: 50px;
                 color: #4f5c5f;
             }
+        }
+        .col-sm-3 {
+            padding-top: 150px;
         }
     }
 }
