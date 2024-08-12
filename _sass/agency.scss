@@ -184,7 +184,7 @@ header {
             @include script-font;
             font-weight: 700;
             font-size: 50px;
-            line-height: 22px;
+            line-height: 50px;
             margin-bottom: 25px;
             color: $theme-primary;
         }
@@ -209,7 +209,7 @@ header {
                 @include script-font;
                 font-weight: 700;
                 font-size: 70px;
-                line-height: 40px;
+                line-height: 50px;
                 margin-bottom: 25px;
                 padding: 10px 0;
                 color: $theme-primary;
