@@ -212,11 +212,11 @@ header {
     header {
         .intro-text {
             padding-top: 200px;
-            padding-bottom: 200px;
+            padding-bottom: 100px;
             .intro-lead-in {
                 @include script-font;
                 font-weight: 700;
-                font-size: 70px;
+                font-size: 50px;
                 line-height: 40px;
                 margin-bottom: 25px;
                 padding: 10px 0;
@@ -225,8 +225,8 @@ header {
             .intro-heading {
                 @include script-font;
                 font-weight: 700;
-                font-size: 30px;
-                line-height: 75px;
+                font-size: 20px;
+                line-height: 40px;
                 margin-bottom: 50px;
                 color: #4f5c5f;
             }
