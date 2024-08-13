@@ -198,14 +198,14 @@ header {
             color: #4f5c5f;
         }
     }
-    .col-sm-3 {
+    .col-sm-4 {
         padding-top: 150px;
         padding-bottom: 50px;
+        .img-responsive {
+            padding: 2em;
+            border: white;
+        }
     }
-    // .img-responsive {
-    //     padding: 2em;
-    //     border: white;
-    // }
 }
 
 @media(min-width:768px) {
@@ -231,14 +231,14 @@ header {
                 color: #4f5c5f;
             }
         }
-        .col-sm-3 {
+        .col-sm-4 {
             padding-top: 150px;
             padding-bottom: 50px;
-        }
-        // .img-responsive {
-        //     padding: 2em;
-        //     border: white;
-        // }
+            .img-responsive {
+                padding: 2em;
+                border: white;
+            }
+        } 
     }
 }
 
