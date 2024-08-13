@@ -178,7 +178,7 @@ header {
     text-align: center;
     color: $theme-primary;
     .intro-text {
-        padding-top: 150px;
+        padding-top: 200px;
         padding-bottom: 50px;
         .intro-lead-in {
             @include script-font;
@@ -189,7 +189,7 @@ header {
             color: black;
         }
         .intro-heading {
-            padding-top: 10px;
+            padding-top: 7px;
             @include script-font;
             font-weight: 700;
             font-size: 20px;
