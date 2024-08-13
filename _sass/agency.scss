@@ -201,11 +201,11 @@ header {
     .col-sm-3 {
         padding-top: 150px;
         padding-bottom: 50px;
-        .img-responsive {
-            padding: 2em;
-            border: white;
-        }
     }
+    // .img-responsive {
+    //     padding: 2em;
+    //     border: white;
+    // }
 }
 
 @media(min-width:768px) {
@@ -234,11 +234,11 @@ header {
         .col-sm-3 {
             padding-top: 150px;
             padding-bottom: 50px;
-            .img-responsive {
-                padding: 2em;
-                border: white;
-            }
         }
+        // .img-responsive {
+        //     padding: 2em;
+        //     border: white;
+        // }
     }
 }
 
